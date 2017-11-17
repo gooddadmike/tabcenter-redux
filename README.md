@@ -3,6 +3,9 @@
 Your favorite vertical tabbed browsing add-on, now compatible with Firefox 57+.
 [Install the extension](https://addons.mozilla.org/firefox/addon/tab-center-redux/).
 
+## Usage
+Click the icon or type `Ctrl`+`Shift`+`O` (or `⌘`+`Shift`+`O` on macOS) to open the sidebar with your vertical tabs.
+
 ## Help localize the project!
 You can contribute by helping translate Tab Center Redux [on Crowdin](https://crowdin.com/project/tab-center-redux).  
 Can't find your own language? [Open an issue!](https://github.com/eoger/tabcenter-redux/issues/new) 
